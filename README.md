@@ -117,6 +117,24 @@ streamlit run app.py
 No `.env`/API key is required for the default local-model setup. If you swap `local_llm` for a hosted provider (OpenAI, Anthropic, etc.), you'll need to add the relevant API key via a `.env` file and `python-dotenv` (already wired up at the top of `healthcare_bot.py`).
 
 ---
+Homescreen screenshot:
+
+<img width="2001" height="1226" alt="Heathcare_Assitant_HomePage" src="https://github.com/user-attachments/assets/027c1398-db9a-4f93-8ba6-d789c96ac833" />
+
+
+General Health Query response:
+
+<img width="1970" height="1207" alt="Healthcare_goodquestion_example" src="https://github.com/user-attachments/assets/11f4af2d-e719-499c-b42f-f87746f1b73e" />
+
+Off-topic/security filter type question:
+
+<img width="1980" height="1218" alt="Heathcare_Safetyfilter_example" src="https://github.com/user-attachments/assets/91888937-627e-44a9-a561-540b6478aa43" />
+
+
+Email Redact for input filter:
+
+<img width="1980" height="1203" alt="Healthcare_email_redact" src="https://github.com/user-attachments/assets/9a9d8fcc-933c-4aec-bf6e-9f6e8f1fd8af" />
+
 
 ## Known limitations / roadmap
 
