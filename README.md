@@ -95,7 +95,7 @@ flowchart TD
 
 ```bash
 # 1. Clone and enter the repo
-git clone <your-repo-url>
+git clone https://github.com/poreddy7879/AI_security.git
 cd healthcare_app
 
 # 2. Create a virtual environment
